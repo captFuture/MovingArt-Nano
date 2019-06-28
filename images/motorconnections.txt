@@ -1,0 +1,9 @@
+Rot: Motor +12V
+Weiß: Motor GND
+
+Blau: Encoder +3,3-5V
+Schwarz: Encoder GND
+
+Gelb: Signalrückmeldung
+Grün: Signalrückmeldung
+
